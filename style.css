@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 html{
-    font-size: 20px;
-    font-family: sans-serif;
+    font-size: 15px;
+    font-family: verdana sans-serif;
     scroll-behavior: smooth;
 }
 a {
@@ -14,10 +14,11 @@ a {
 .navbar{
     position: fixed;
     background-color: #A3DA8D;
+    height: 60px;
 }
 .homepage{
     position: relative;
     background-color: #FFF1BD;
-    padding-top: 70px;
+    padding-top: 80px;
     height: 100vh;
 }
