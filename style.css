@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    position: relative;
     
 }
 html {
@@ -17,13 +18,12 @@ a {
     position: fixed;
     height: 60px;
 }
-.jumb {
+.jumbotron {
     position: relative;
     background-color: #EEC373;
     margin-top: 80px;
-    height: 100%;
-    text-align: justify;
-    width: 100wh;
+    padding-top: 50px;
+ 
 }
 .cat { 
     height: 400px;
@@ -34,9 +34,18 @@ a {
     max-width: 100%;
     max-height: 100%;
 }
+.services-head {
+    position: relative;
+    text-align: center;
+    font: ;
+    font-size: 24px;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+
 /** Wave **/
 .wave1 {
-    background-color: #CA965C;
+    
 }
 /** Services **/
 .services {
