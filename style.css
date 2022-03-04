@@ -17,3 +17,9 @@ body{
 .form{
     border-radius: 10px;
 }
+
+
+.box1 {
+    background-color: green;
+    border-radius: 10px;
+}
