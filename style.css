@@ -18,8 +18,40 @@ body{
     border-radius: 10px;
 }
 
-
+/* Pricing boxes */
 .box1 {
+    background-color: yellow;
+    border-radius: 10px;
+}
+.box2 {
     background-color: green;
     border-radius: 10px;
+}
+.box3 {
+    background-color: red;
+    border-radius: 10px;
+}
+.box4 {
+    background-color: lime;
+    border-radius: 10px;
+}
+
+/* Whatsapp button */
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
 }
